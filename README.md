@@ -8,7 +8,7 @@ Once I had the logics written I refactored the code again using Reducer to deal 
 
 I also used useEffect to alter the shopping cart as necessary and useMemo to emprove performance.
 
-
+To see the final result, click [here](https://learning-react-meteora.vercel.app/).
 
 ## Used tools:
 
@@ -17,6 +17,21 @@ I also used useEffect to alter the shopping cart as necessary and useMemo to emp
 * Reducer
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
+
+## Initializing the project on your computer
+
+- Clone the repository using the command line:
+    - git clone *link of the repository*
+    - cd *file of the repository*
+ 
+- You can also download the zip file
+- Unzip it
+    - cd *name of the file*
+ 
+- Run the code:
+    - npm install (to install all project's dependencies)
+    - npm run dev
+    - Copy and paste the Local link in your browser (to open the project)
 
 #
 
@@ -30,8 +45,25 @@ Após ter a lógica escrita, refatorei novamente utilizando Reducer para lidar c
 
 Utilizei useEffect para alterar o carrinho conforme necessário e useMemo para melhorar a perfomance da aplicação.
 
+Para acessar o resultado final da página, clique [aqui](https://learning-react-meteora.vercel.app/).
+
 ## Ferramentas utilizadas:
 
 * React
 * Context API
 * Reducer
+
+## Iniciando o projeto na sua máquina
+
+- Clone o repositório através do terminal:
+    - git clone *link do repositório*
+    - cd *pasta do repositório*
+ 
+    - Caso prefira, faça download do arquivo compactado
+    - Descompacte a pasta
+    - cd *pasta do repositório*
+ 
+- Rode o código na sua máquina:
+    - npm install (para instalar as dependências do projeto)
+    - npm run dev 
+    - Copie o link Local e cole no seu navegador (para abrir o projeto)
